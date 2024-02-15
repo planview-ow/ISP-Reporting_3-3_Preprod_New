@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[8729],{98729:(e,t,c)=>{c.r(t),c.d(t,{ExtractPdfPages:()=>s});var a=c(56655);class s{execute(e){throw new a.qN(s.action)}}s.action="gcx:wf:pdf::ExtractPdfPages",s.suite="gcx:wf:builtin"}}]);

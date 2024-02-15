@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[3552],{53552:(e,c,s)=>{s.r(c),s.d(c,{SqlQueryUnsafe:()=>t});var n=s(3091);class t{execute(e){throw new n.qN(t.action)}}t.action="gcx:wf:server::SqlQueryUnsafe",t.suite="gcx:wf:builtin"}}]);

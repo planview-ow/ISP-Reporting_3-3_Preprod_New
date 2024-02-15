@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[7041],{67041:(e,r,s)=>{s.r(r),s.d(r,{RefreshLayer:()=>c});var t=s(18886);class c{execute(e){return e=t.U.exists("layer",e.layer),this.refresh(e),{}}refresh(e){"function"==typeof e.refresh&&e.refresh()}}c.action="gcx:wf:arcgis::RefreshLayer",c.suite="gcx:wf:builtin"}}]);

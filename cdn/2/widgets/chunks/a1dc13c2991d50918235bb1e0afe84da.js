@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[1477],{41477:(e,c,i)=>{i.r(c),i.d(c,{CopyFile:()=>s});var t=i(3091);class s{execute(e){throw new t.qN(s.action)}}s.action="gcx:wf:server::CopyFile",s.suite="gcx:wf:builtin"}}]);

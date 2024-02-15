@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({"vswf-ok":"OK","vswf-cancel":"Cancel"})}}}));

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[6020],{56020:(e,t,c)=>{c.r(t),c.d(t,{GetFirstItem:()=>r});var i=c(18886);class r{execute(e){return{item:i.U.array("collection",e.collection,i.U.never)[0]}}}r.action="gcx:wf:core::GetFirstItem",r.suite="gcx:wf:builtin"}}]);

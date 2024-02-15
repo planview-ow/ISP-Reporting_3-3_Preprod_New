@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[4304],{34304:(e,t,a)=>{a.r(t),a.d(t,{ConvertDataTableToXlsx:()=>l});var c=a(3091);class l{execute(e){throw new c.qN(l.action)}}l.action="gcx:wf:xlsx::ConvertDataTableToXlsx",l.suite="gcx:wf:builtin"}}]);

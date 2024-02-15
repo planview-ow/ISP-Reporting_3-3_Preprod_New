@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[7996],{57996:(e,t,i)=>{i.r(t),i.d(t,{Confirm:()=>n});class n{execute(e){return new Promise((function(t){setTimeout((function(){var i=confirm(e.text);t({result:i})}))}))}}n.action="gcx:wf:ui::Confirm",n.suite="gcx:wf:builtin"}}]);

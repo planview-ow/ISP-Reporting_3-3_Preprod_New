@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[5214],{25214:(e,c,n)=>{n.r(c),n.d(c,{SqlNonQuery:()=>s});var t=n(3091);class s{execute(e){throw new t.qN(s.action)}}s.action="gcx:wf:server::SqlNonQuery",s.suite="gcx:wf:builtin"}}]);

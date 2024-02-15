@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[857],{60857:(e,t,c)=>{c.r(t),c.d(t,{GetUserInfo:()=>s});var n=c(3091);class s{execute(e){throw new n.qN(s.action)}}s.action="gcx:wf:app::GetUserInfo",s.suite="gcx:wf:builtin"}}]);

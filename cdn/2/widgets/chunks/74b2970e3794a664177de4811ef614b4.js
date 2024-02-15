@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[3728],{23728:(e,s,t)=>{t.r(s),t.d(s,{Cos:()=>n});var c=t(18886);class n{execute(e){return e=c.U.number("angle",e.angle,c.U.never),{result:Math.cos(e)}}}n.action="gcx:wf:math::Cos",n.suite="gcx:wf:builtin"}}]);

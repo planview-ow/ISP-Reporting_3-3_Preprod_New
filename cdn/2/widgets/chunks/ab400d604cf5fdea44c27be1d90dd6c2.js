@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[5747],{5747:(e,t,r)=>{r.r(t),r.d(t,{SetFeatureGeometry:()=>c});var u=r(18886);class c{execute(e){return u.U.exists("feature",e.feature).geometry=e.geometry||null,{}}}c.action="gcx:wf:arcgis::SetFeatureGeometry",c.suite="gcx:wf:builtin"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[8259],{28259:(e,n,t)=>{t.r(n),t.d(n,{Pow:()=>s});var r=t(27387);class s{execute(e){var n=r.U.number("base",e.base,r.U.never);return e=r.U.number("exponent",e.exponent,r.U.never),{result:Math.pow(n,e)}}}s.action="gcx:wf:math::Pow",s.suite="gcx:wf:builtin"}}]);

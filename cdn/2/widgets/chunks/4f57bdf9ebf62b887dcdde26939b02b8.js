@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[8040],{38040:(e,c,i)=>{i.r(c),i.d(c,{MoveFile:()=>s});var t=i(3091);class s{execute(e){throw new t.qN(s.action)}}s.action="gcx:wf:server::MoveFile",s.suite="gcx:wf:builtin"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[2842],{92842:(e,t,c)=>{c.r(t),c.d(t,{PublishEvent:()=>n});var i=c(56655);class n{execute(e){throw new i.qN(n.action)}}n.action="gcx:wf:app::PublishEvent",n.suite="gcx:wf:builtin"}}]);

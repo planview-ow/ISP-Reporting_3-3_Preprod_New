@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[9149],{79149:(e,t,c)=>{c.r(t),c.d(t,{OpenWidget:()=>n});var i=c(3091);class n{execute(e,t){throw new i.qN(n.action)}}n.action="gcx:wf:wab::OpenWidget",n.suite="gcx:wf:builtin"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[1505],{71505:(e,t,i)=>{i.r(t),i.d(t,{Alert:()=>n});class n{execute(e){return new Promise((function(t){setTimeout((function(){window.alert(e.text),t({})}))}))}}n.action="gcx:wf:ui::Alert",n.suite="gcx:wf:builtin"}}]);

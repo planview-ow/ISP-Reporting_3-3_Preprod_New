@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[1869],{1869:(e,t,c)=>{c.r(t),c.d(t,{CreateDownload:()=>n});var a=c(3091);class n{execute(e){throw new a.qN(n.action)}}n.action="gcx:wf:server::CreateDownload",n.suite="gcx:wf:builtin"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[8662],{38662:(e,t,c)=>{c.r(t),c.d(t,{DeleteFile:()=>l});var i=c(56655);class l{execute(e){throw new i.qN(l.action)}}l.action="gcx:wf:server::DeleteFile",l.suite="gcx:wf:builtin"}}]);

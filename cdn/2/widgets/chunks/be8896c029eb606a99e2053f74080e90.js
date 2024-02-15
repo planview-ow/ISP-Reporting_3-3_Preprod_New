@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[840],{70840:(e,t,c)=>{c.r(t),c.d(t,{GetItemAtIndex:()=>i});var n=c(27387);class i{execute(e){return{item:n.U.array("collection",e.collection,n.U.never)[e.index]}}}i.action="gcx:wf:core::GetItemAtIndex",i.suite="gcx:wf:builtin"}}]);

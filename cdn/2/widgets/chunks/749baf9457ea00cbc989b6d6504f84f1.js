@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[6429],{16429:(e,n,c)=>{c.r(n),c.d(n,{RunCommand:()=>a});var t=c(3091);class a{execute(e,n){throw new t.qN(a.action)}}a.action="gcx:wf:app::RunCommand",a.suite="gcx:wf:builtin"}}]);

@@ -1,0 +1,30 @@
+{
+  "1683214112460": {
+    "originalName": "1681400108745.jpeg",
+    "fileName": "1683214112460.jpeg",
+    "size": 1056749,
+    "url": "${appResourceUrl}/images/widget_115/1683214112460.jpeg",
+    "created": 1683214112460,
+    "resourcesPrefix": "images/widget_115",
+    "referedIds": [],
+    "originId": "1683214112460",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 5865,
+    "originalHeight": 502
+  },
+  "1685119106125": {
+    "originalName": "message-rounded-dots-solid-24.png",
+    "fileName": "1685119106125.png",
+    "size": 655,
+    "url": "${appResourceUrl}/images/widget_382/1685119106125.png",
+    "created": 1685119106125,
+    "resourcesPrefix": "images/widget_382",
+    "referedIds": [],
+    "originId": "1685119106125",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 30,
+    "originalHeight": 30
+  }
+}

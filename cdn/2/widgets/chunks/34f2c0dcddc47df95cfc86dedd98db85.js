@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[7760],{97760:(e,c,t)=>{t.r(c),t.d(c,{If:()=>i});var n=t(27387);class i{execute(e,c){return e=n.U.boolean("condition",e.condition,!1),c.jump(e?"true":"false"),{result:e}}}i.action="gcx:wf:core::If",i.suite="gcx:wf:builtin"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[3452],{3452:(e,t,c)=>{c.r(t),c.d(t,{GetMap:()=>i});var n=c(68230),a=c(8558),s=c(67411),u=c(46275);let i=class{execute(e,t,c){const n=c.create();return(0,u.Qo)(n.load(),(function(){return{map:n}}))}};i.action="gcx:wf:arcgis::GetMap",i.suite="gcx:wf:builtin",i=(0,n.gn)([(0,a.QZ)(s.I)],i)}}]);

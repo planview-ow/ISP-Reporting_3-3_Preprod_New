@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[8757],{18757:(e,t,i)=>{i.r(t),i.d(t,{PublishWidgetData:()=>c});var a=i(56655);class c{execute(e,t){throw new a.qN(c.action)}}c.action="gcx:wf:wab::PublishWidgetData",c.suite="gcx:wf:builtin"}}]);

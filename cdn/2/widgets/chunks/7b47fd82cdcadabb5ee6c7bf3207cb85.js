@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[8077],{78077:(e,t,i)=>{i.r(t),i.d(t,{Prompt:()=>n});class n{execute(e){return new Promise((function(t){setTimeout((function(){var i=window.prompt(e.description,e.defaultText);t({result:i})}))}))}}n.action="gcx:wf:ui::Prompt",n.suite="gcx:wf:builtin"}}]);

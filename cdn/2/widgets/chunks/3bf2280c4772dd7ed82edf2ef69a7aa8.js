@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[1486],{71486:(e,c,t)=>{t.r(c),t.d(c,{ClearItems:()=>n});var l=t(27387);class n{execute(e){return l.U.array("collection",e.collection,l.U.never).length=0,{}}}n.action="gcx:wf:core::ClearItems",n.suite="gcx:wf:builtin"}}]);

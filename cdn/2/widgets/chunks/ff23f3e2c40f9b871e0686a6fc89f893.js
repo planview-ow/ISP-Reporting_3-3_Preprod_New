@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[978],{10978:(e,t,r)=>{r.r(t),r.d(t,{PropagateFormEvent:()=>c});var s=r(18886);class c{execute(e){const t=e.form;return s.U.exists("form",t),t.route=!0,{}}}c.action="gcx:wf:forms::PropagateFormEvent",c.suite="gcx:wf:builtin"}}]);

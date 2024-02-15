@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[4066],{4066:(e,t,a)=>{a.r(t),a.d(t,{SendLayerToAttributeTable:()=>b});var c=a(3091);class b{execute(e,t){throw new c.qN(b.action)}}b.action="gcx:wf:wab::SendLayerToAttributeTable",b.suite="gcx:wf:builtin"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[2987],{12987:(e,t,s)=>{s.r(t),s.d(t,{CompleteForm:()=>c});var r=s(27387);class c{execute(e){const t=r.U.exists("form",e.form);return e=r.U.string("result",e.result,r.U.never),t.result=e,{}}}c.action="gcx:wf:forms::CompleteForm",c.suite="gcx:wf:builtin"}}]);

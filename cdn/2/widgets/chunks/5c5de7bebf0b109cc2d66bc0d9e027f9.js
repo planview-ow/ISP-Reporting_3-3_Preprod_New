@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[6213],{46213:(e,s,o)=>{o.r(s),o.d(s,{GeometryFromJson:()=>r});var t=o(66107);class r{execute(e,s){return e.json?(e="string"==typeof e.json?JSON.parse(e.json):e.json,{geometry:t.default.fromJSON(e)}):{geometry:void 0}}}r.action="gcx:wf:arcgis::GeometryFromJson",r.suite="gcx:wf:builtin"}}]);

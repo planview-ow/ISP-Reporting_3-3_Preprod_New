@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[9394],{9394:(e,t,n)=>{n.r(t),n.d(t,{GetWorkflowInputs:()=>s});class s{execute(e,t){return{inputs:t.ambient.inputs}}}s.action="gcx:wf:core::GetWorkflowInputs",s.suite="gcx:wf:builtin"}}]);

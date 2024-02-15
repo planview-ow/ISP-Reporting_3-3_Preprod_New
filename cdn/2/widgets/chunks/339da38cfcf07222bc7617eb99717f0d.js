@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[9116],{39116:(e,n,t)=>{t.r(n),t.d(n,{Sin:()=>i});var c=t(18886);class i{execute(e){return e=c.U.number("angle",e.angle,c.U.never),{result:Math.sin(e)}}}i.action="gcx:wf:math::Sin",i.suite="gcx:wf:builtin"}}]);

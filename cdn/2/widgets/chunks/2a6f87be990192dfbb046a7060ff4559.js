@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[1910],{1910:(e,n,t)=>{t.r(n),t.d(n,{Tan:()=>c});var a=t(18886);class c{execute(e){return e=a.U.number("angle",e.angle,a.U.never),{result:Math.tan(e)}}}c.action="gcx:wf:math::Tan",c.suite="gcx:wf:builtin"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[7145],{77145:(e,t,c)=>{c.r(t),c.d(t,{CreateEmailAttachment:()=>i});var a=c(3091);class i{execute(e){throw new a.qN(i.action)}}i.action="gcx:wf:server::CreateEmailAttachment",i.suite="gcx:wf:builtin"}}]);

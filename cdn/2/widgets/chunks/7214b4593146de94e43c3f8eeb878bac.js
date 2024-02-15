@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[5394],{25394:(e,r,t)=>{t.r(r),t.d(r,{GetBrowserInfo:()=>n});class n{execute(e){return{url:location.href,userAgent:navigator.userAgent}}}n.action="gcx:wf:browser::GetBrowserInfo",n.suite="gcx:wf:builtin"}}]);

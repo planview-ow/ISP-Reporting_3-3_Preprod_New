@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[6528],{46528:(e,t,u)=>{u.r(t),u.d(t,{Sqrt:()=>c});var r=u(18886);class c{execute(e){return e=r.U.number("value",e.value,r.U.never),{result:Math.sqrt(e)}}}c.action="gcx:wf:math::Sqrt",c.suite="gcx:wf:builtin"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[6952],{66952:(e,c,l)=>{l.r(c),l.d(c,{Placeholder:()=>t});class t{execute(e){return{}}}t.action="gcx:wf:core::Placeholder",t.suite="gcx:wf:builtin"}}]);

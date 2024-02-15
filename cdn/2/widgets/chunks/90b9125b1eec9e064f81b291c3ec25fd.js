@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[3356],{13356:(e,t,c)=>{c.r(t),c.d(t,{Evaluate:()=>s});class s{execute(e){return{result:e.expression}}}s.action="gcx:wf:core::Evaluate",s.suite="gcx:wf:builtin"}}]);

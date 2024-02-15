@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[8415],{18415:(e,c,s)=>{s.r(c),s.d(c,{EvaluateAsync:()=>t});class t{async execute(e){return{result:await e.expression}}}t.action="gcx:wf:core::EvaluateAsync",t.suite="gcx:wf:builtin"}}]);

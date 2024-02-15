@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[4308],{4308:(e,t,u)=>{u.r(t),u.d(t,{SetWorkflowOutput:()=>c});var n=u(27387);class c{execute(e,t){var u=n.U.string("name",e.name,n.U.never);return e=e.value,t.ambient.outputs[u]=e,{}}}c.action="gcx:wf:core::SetWorkflowOutput",c.suite="gcx:wf:builtin"}}]);

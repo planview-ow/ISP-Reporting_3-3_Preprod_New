@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[6333],{56333:(e,t,r)=>{r.r(t),r.d(t,{SetProperty:()=>p});var c=r(27387);class p{execute(e){return c.U.exists("object",e.object)[c.U.string("propertyName",e.propertyName,c.U.never)]=e.propertyValue,{}}}p.action="gcx:wf:core::SetProperty",p.suite="gcx:wf:builtin"}}]);

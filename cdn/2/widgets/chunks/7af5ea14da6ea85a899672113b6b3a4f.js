@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[126],{60126:(e,c,t)=>{t.r(c),t.d(c,{AddItem:()=>i});var n=t(18886);class i{execute(e){const c=n.U.array("collection",e.collection,n.U.never);var t=n.U.number("index",e.index,c.length);return c.splice(t,0,e.item),{}}}i.action="gcx:wf:core::AddItem",i.suite="gcx:wf:builtin"}}]);

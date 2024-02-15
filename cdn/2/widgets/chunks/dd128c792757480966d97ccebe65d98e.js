@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexb_client=self.webpackChunkexb_client||[]).push([[928],{40928:(e,c,o)=>{o.r(c),o.d(c,{Log:()=>s});class s{execute(e){return console&&"function"==typeof console.log&&console.log(e.message),{}}}s.action="gcx:wf:core::Log",s.suite="gcx:wf:builtin"}}]);
