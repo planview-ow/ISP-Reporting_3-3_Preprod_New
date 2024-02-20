@@ -156,20 +156,20 @@
         "2": {
           "type": "WIDGET",
           "bbox": {
-            "left": "2.7%",
-            "right": "86.9%",
-            "top": "12.7%",
-            "bottom": "20.7%",
-            "width": "10.4%",
+            "left": "60.5%",
+            "right": "23.8%",
+            "top": "16.7%",
+            "bottom": "16.7%",
+            "width": "15.6%",
             "height": "66.7%"
           },
-          "widgetId": "widget_456",
+          "widgetId": "widget_458",
           "setting": {
             "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
             }
           }
         }
@@ -6539,6 +6539,61 @@
         "0",
         "1"
       ]
+    },
+    "layout_284": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_456",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "87.6%",
+            "right": "1.0%",
+            "top": "1.70%",
+            "bottom": "93.8%",
+            "width": "4.00%",
+            "height": "4.00%"
+          },
+          "widgetId": "widget_457",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
     }
   },
   "exbVersion": "1.11.0",
@@ -6548,8 +6603,8 @@
     "lockLayout": false,
     "viewPortSize": {
       "LARGE": {
-        "width": 1920,
-        "height": 1080
+        "width": 1280,
+        "height": 800
       }
     }
   },
@@ -7764,8 +7819,8 @@
       "id": "widget_47",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_2-18cee8b43b5-layer-29",
-          "mainDataSourceId": "dataSource_2-18cee8b43b5-layer-29",
+          "dataSourceId": "dataSource_2-18cee8b43b2-layer-21",
+          "mainDataSourceId": "dataSource_2-18cee8b43b2-layer-21",
           "rootDataSourceId": "dataSource_2",
           "useFieldsInPopupInfo": true
         }
@@ -8538,9 +8593,8 @@
           },
           "text": "",
           "linkParam": {
-            "linkType": "PAGE",
-            "value": "page_1",
-            "openType": "_self"
+            "linkType": "DIALOG",
+            "value": "dialog_27"
           },
           "icon": {
             "data": "${appResourceUrl}/images/icon_picker_in_setting/1684246498749.png",
@@ -19449,7 +19503,7 @@
     },
     "widget_411": {
       "uri": "widgets/Workflow/",
-      "version": "1.5.1",
+      "version": "1.5.0+3",
       "config": {
         "workflowInfo": {
           "designerURL": "https://apps.vertigisstudio.com/workflow/designer/#workflow=2fddeab4c4654bee896bfb7fb6b963c7",
@@ -19633,7 +19687,7 @@
     },
     "widget_420": {
       "uri": "widgets/Workflow/",
-      "version": "1.5.1",
+      "version": "1.5.0+3",
       "config": {
         "workflowInfo": {
           "designerURL": "https://apps.vertigisstudio.com/workflow/designer/#workflow=1f64dd754dab4fce9eaf4dd13e9c988b",
@@ -19654,7 +19708,7 @@
     },
     "widget_421": {
       "uri": "widgets/Workflow/",
-      "version": "1.5.1",
+      "version": "1.5.0+3",
       "label": "QPR Workflow",
       "config": {
         "workflowInfo": {
@@ -19677,7 +19731,7 @@
     },
     "widget_422": {
       "uri": "widgets/Workflow/",
-      "version": "1.5.1",
+      "version": "1.5.0+3",
       "label": "Workflow 2",
       "config": {
         "workflowInfo": {
@@ -19902,7 +19956,7 @@
     },
     "widget_425": {
       "uri": "widgets/Workflow/",
-      "version": "1.5.1",
+      "version": "1.5.0+3",
       "label": "ISP-Editor-Workflow ",
       "config": {
         "workflowInfo": {
@@ -21572,11 +21626,61 @@
       "id": "widget_455"
     },
     "widget_456": {
+      "uri": "widgets/common/embed/",
+      "version": "1.11.0",
+      "label": "Embed 21",
+      "config": {
+        "embedType": "url",
+        "expression": "<p>https://apps.geocortex.com/webviewer/?app=0118d7f60e994b2f91249d94b65921ab</p>",
+        "enableLabel": false
+      },
+      "id": "widget_456",
+      "useDataSources": []
+    },
+    "widget_457": {
+      "uri": "widgets/common/button/",
+      "version": "1.11.0",
+      "label": "Button 44",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m8.745 8 6.1 6.1a.527.527 0 1 1-.745.746L8 8.746l-6.1 6.1a.527.527 0 1 1-.746-.746l6.1-6.1-6.1-6.1a.527.527 0 0 1 .746-.746l6.1 6.1 6.1-6.1a.527.527 0 0 1 .746.746L8.746 8Z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#050505"
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_457"
+    },
+    "widget_458": {
       "uri": "widgets/preprod_widget/",
       "version": "1.7.0",
       "label": "preprod",
       "config": null,
-      "id": "widget_456"
+      "id": "widget_458"
     }
   },
   "widgetsManifest": {},
@@ -22542,6 +22646,32 @@
       "index": 19,
       "isSplash": false,
       "label": "CA Holdback"
+    },
+    "dialog_27": {
+      "id": "dialog_27",
+      "mode": "FIXED",
+      "sizeMode": {
+        "LARGE": {
+          "position": "CENTER",
+          "width": "100.0%",
+          "height": "95.0%"
+        }
+      },
+      "closeWhenClickOverlay": true,
+      "dialogBackground": {
+        "color": "var(--light)",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": "var(--dark-900)",
+      "layout": {
+        "LARGE": "layout_284"
+      },
+      "index": 20,
+      "isSplash": false,
+      "label": "New Progress Report Viewer Editor"
     }
   },
   "dataSources": {
@@ -25603,8 +25733,8 @@
     "portalUrl": "https://pvpreprod.maps.arcgis.com",
     "isWebTier": false,
     "clientId": "k7sj2oreWJKxss0Q",
-    "title": "ISP-Reporting_new_Production",
-    "description": null,
+    "title": "ISP-Reporting_3-3_Preprod_New",
+    "description": "",
     "type": "Web Experience",
     "thumbnail": null
   },
@@ -25635,7 +25765,7 @@
       "LARGE": "150px"
     }
   },
-  "timestamp": 1707501350036,
+  "timestamp": 1708448017242,
   "customTheme": {
     "typography": {
       "fontFamilyBase": "Montserrat"
@@ -25645,5 +25775,12 @@
       "info": "#253746"
     }
   },
-  "originExbVersion": "1.11.0"
+  "originExbVersion": "1.11.0",
+  "historyLabels": {
+    "pages": {
+      "page_1": [
+        "NCS-NSP"
+      ]
+    }
+  }
 }
